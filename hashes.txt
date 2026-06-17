@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de locura dulce
+
+This log tracks the cryptographic history and versioning for the song **Noche de locura dulce** (noche-de-locura-dulce).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T17:11:52.274582 | `v1` | `d8d98b417b84c01a4297eb2416a45a71f63590f7b8777cfcc11cbe5855c33134` | `dd81a42a1e69174ec9c3c74f9b7fa01a15a80cf6938e98178e78bf10cf3c6f29` | `2026-06-17_noche-de-locura-dulce-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
