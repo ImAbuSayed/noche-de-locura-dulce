@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-locura-dulce/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Noche de locura dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-locura-dulce/) |
+| **Get License** | [Secure Licensing Rights for Noche de locura dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-locura-dulce/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bebé, la noche entera huele a tentación
+> Y yo perdiendo el vuelo en tu respiración
+> Nos vamos a la calle, cero condición
+> Esta locura dulce es mi adicción
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
